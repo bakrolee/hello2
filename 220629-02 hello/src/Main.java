@@ -5,7 +5,5 @@ public class Main {
 		System.out.println("변경");
 		
 		System.out.println("내이름은 박로");
-		
-		
 	}
 }
